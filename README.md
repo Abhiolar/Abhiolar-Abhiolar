@@ -19,9 +19,13 @@ The purpose of this project is to create a python module that calculates Binomia
 1. Binomial Distribution.py : The Binomial Distribution class calculates and visualises a Binomial Distribution
 
 Attribues : mean - representing the mean value of the distribution
+
             stdev - representing the standard deviation of the distribution
+            
             data_list - a list of floats to be extracted from the data file
+            
             p - representing the probability of an event occurring
+            
             n - number of trials
             
  2. Gaussian Distribution.py : The 
