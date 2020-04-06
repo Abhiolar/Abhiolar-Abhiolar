@@ -34,21 +34,21 @@ Attribues :
  
   Attributes:
        
-             mean (float) representing the mean value of the distribution
+             mean - representing the mean value of the distribution
         
-             stdev (float) representing the standard deviation of the distribution
+             stdev - representing the standard deviation of the distribution
        
-             data_list (list of floats) a list of floats extracted from the data file
+             data_list - a list of floats extracted from the data file
              
             
   3. General Distribution.py : The Gaussian Distribution class is the parent class for the two classes listed above and the        other classes inherits the attributes of the parent class
   
      Attributes:  
             
-            mean (float) representing the mean value of the distribution
+            mean - representing the mean value of the distribution
             
-            stdev (float) representing the standard deviation of the distribution
+            stdev - representing the standard deviation of the distribution
             
-            data_list (list of floats) a list of floats extracted from the data file
+            data_list - a list of floats extracted from the data file
      
-  4. init.py : 
+
