@@ -30,4 +30,19 @@ Attribues :
             
             n - number of trials
             
- 2. Gaussian Distribution.py : The 
+ 2. Gaussian Distribution.py : The Gaussian distribution class calculates and visualises a Gaussian Distribution
+ 
+  Attributes:
+       
+             mean (float) representing the mean value of the distribution
+        
+             stdev (float) representing the standard deviation of the distribution
+       
+             data_list (list of floats) a list of floats extracted from the data file
+             
+            
+  3. General Distribution.py : The Gaussian Distribution class is the parent class for the two classes listed above and the        other classes inherits the attributes of the parent class
+  
+     Attributes:
+     
+                
